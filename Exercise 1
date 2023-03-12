@@ -1,0 +1,7 @@
+print("************");
+  print("*  Hello   *");
+  print("*  World   *");
+  print("*    in    *");
+  print("*     a    *");
+  print("*   frame  *");
+  print("************");
